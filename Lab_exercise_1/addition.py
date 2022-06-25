@@ -1,5 +1,7 @@
-a = int(input())
 
-b = int(input())
+a = int(input("Input the first digit : "))
+b = int(input("Input the second one : "))
 
-print(a + b)
+add = a+b
+
+print(add)
